@@ -7,3 +7,6 @@ code collaboratively using Git and github
 
 def addition( ):
     pass
+
+def multiplication( ):
+    pass
